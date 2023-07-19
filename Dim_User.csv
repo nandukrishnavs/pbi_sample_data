@@ -1,0 +1,26 @@
+UserID,Username,MobileNo,CollegeID,Country,State,District
+1,John,1234567890,101,India,Karnataka,Bangalore
+2,Mary,9876543210,102,India,Maharashtra,Mumbai
+3,David,5555555555,101,India,Tamil Nadu,Chennai
+4,Emma,7894561230,102,India,Maharashtra,Pune
+5,Ethan,4561237890,101,India,Karnataka,Mysore
+6,Olivia,3216549870,102,India,Maharashtra,Nagpur
+7,Liam,6549873210,101,India,Karnataka,Mangalore
+8,Ava,9873216540,102,India,Maharashtra,Nashik
+9,Noah,7896541230,101,India,Karnataka,Belgaum
+10,Sophia,1239876540,102,India,Maharashtra,Aurangabad
+11,James,6541239870,101,India,Tamil Nadu,Coimbatore
+12,Isabella,3217896540,102,India,Maharashtra,Thane
+13,Benjamin,7893216540,101,India,Karnataka,Hubli
+14,Mia,4569873210,102,India,Maharashtra,Solapur
+15,Oliver,6543217890,101,India,Karnataka,Shimoga
+16,Charlotte,9871236540,102,India,Maharashtra,Amravati
+17,Elijah,7896543210,101,India,Karnataka,Hassan
+18,Amelia,1236549870,102,India,Maharashtra,Kolhapur
+19,Lucas,6547891230,101,India,Tamil Nadu,Madurai
+20,Harper,3219876540,102,India,Maharashtra,Jalgaon
+21,Henry,7891236540,101,India,Karnataka,Gulbarga
+22,Evelyn,4567893210,102,India,Maharashtra,Latur
+23,Alexander,6541237890,101,India,Karnataka,Davangere
+24,Abigail,9876541230,102,India,Maharashtra,Akola
+25,Daniel,7893219870,101,India,Tamil Nadu,Salem
