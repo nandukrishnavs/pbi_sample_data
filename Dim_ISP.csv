@@ -1,5 +1,4 @@
-ISP ID,ISP Name,Location
-101,Jio,Bangalore
-102,Jio,Mumbai
-103,Airtel,Chennai
-104,Airtel,Pune
+ISP ID,ISP Name
+101,Jio
+102,Airtel
+
