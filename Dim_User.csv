@@ -1,4 +1,4 @@
-UserID,Username,MobileNo,CollegeID,Country,State
+UserID,Username,MobileNo,ISP ID,Country,State
 1,John,1234567890,101,India,Karnataka|Bangalore
 2,Mary,9876543210,102,India,Maharashtra|Mumbai
 3,David,5555555555,101,India,Tamil Nadu|Chennai
