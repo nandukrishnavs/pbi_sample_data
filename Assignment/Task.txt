@@ -1,0 +1,8 @@
+1.	Overall, Which country is generating more profit?
+2.	Overall, Which product is generating more profit?
+3.	Overall, Which month was more profitable?
+4.	Overall, Which Segment was more profitable?
+5.	Calculate Gross Profit Margin?
+    country-wise, product-wise, month-wise, segment-wise
+6.	Calculate the Sales Discount ratio?
+    country-wise, product-wise, month-wise, segment-wise
