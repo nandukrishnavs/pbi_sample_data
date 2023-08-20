@@ -1,0 +1,6 @@
+RoleID,Email,Role
+101,john@demo.com,BrandOwner
+102,Bob@demo.com,ShopOwner
+103,Jim@demo.com,BrandOwner
+104,amy@demo.com,ShopOwner
+105,linda@demo.com,Admin
